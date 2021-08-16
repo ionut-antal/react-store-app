@@ -50,7 +50,7 @@ export function AvatarCard(props: AvatarCardProps) {
           style={{ backgroundColor: "#3EFF8B" }}
           variant="contained"
           color="default"
-          onClick={() => onDelete(item.id)}
+          
         >
           Edit
         </Button>
